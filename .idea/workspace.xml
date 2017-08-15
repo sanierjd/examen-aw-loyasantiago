@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ab2c06ff-eee5-4f2e-8bfd-dd203431093f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pizza/views/layout.ejs" afterPath="$PROJECT_DIR$/Pizza/views/layout.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pizza/api/controllers/RutasController.js" afterPath="$PROJECT_DIR$/Pizza/api/controllers/RutasController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs" afterPath="$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs" afterPath="$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comprarPizza.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="comprarPizza.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="535">
               <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="54" />
               <folding />
             </state>
@@ -57,7 +58,7 @@
       <file leaf-file-name="crearUsuario.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/crearUsuario.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-576">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
@@ -77,8 +78,8 @@
       <file leaf-file-name="listarUsuarios.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="320">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,7 +88,7 @@
       <file leaf-file-name="layout.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pizza/views/layout.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="224">
               <caret line="63" column="61" lean-forward="false" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
               <folding />
             </state>
@@ -104,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RutasController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RutasController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pizza/api/controllers/RutasController.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+              <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -140,11 +141,11 @@
         <option value="$PROJECT_DIR$/Pizza/api/models/Pizza.js" />
         <option value="$PROJECT_DIR$/Pizza/views/vistas/Usuario/crearUsuario.ejs" />
         <option value="$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.js" />
-        <option value="$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs" />
         <option value="$PROJECT_DIR$/Pizza/config/routes.js" />
-        <option value="$PROJECT_DIR$/Pizza/api/controllers/RutasController.js" />
         <option value="$PROJECT_DIR$/Pizza/views/layout.ejs" />
         <option value="$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs" />
+        <option value="$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs" />
+        <option value="$PROJECT_DIR$/Pizza/api/controllers/RutasController.js" />
       </list>
     </option>
   </component>
@@ -448,12 +449,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502767226251</updated>
-      <workItem from="1502767228229" duration="5753000" />
+      <workItem from="1502767228229" duration="5934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5753000" />
+    <option name="totallyTimeSpent" value="5934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -464,7 +465,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19407408" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19407408" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -624,18 +625,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/api/models/Pizza.js">
+    <entry file="file://$PROJECT_DIR$/Pizza/config/routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="52" column="54" lean-forward="false" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/crearUsuario.ejs">
+    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
+        <state relative-caret-position="320">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/views/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="63" column="61" lean-forward="false" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -648,6 +665,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/api/models/Pizza.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pizza/api/models/Usuario.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -656,10 +681,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/config/routes.js">
+    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/crearUsuario.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="52" column="54" lean-forward="false" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+        <state relative-caret-position="-576">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -667,31 +692,7 @@
     <entry file="file://$PROJECT_DIR$/Pizza/api/controllers/RutasController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/views/layout.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="63" column="61" lean-forward="false" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/listarUsuarios.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pizza/views/vistas/Usuario/comprarPizza.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="54" />
+          <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
           <folding />
         </state>
       </provider>
